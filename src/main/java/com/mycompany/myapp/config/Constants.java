@@ -6,6 +6,7 @@ package com.mycompany.myapp.config;
 public final class Constants {
 
     public static final String SYSTEM = "system";
+    public static final String DEFAULT_LANGUAGE = "en";
 
     private Constants() {}
 }
